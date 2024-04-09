@@ -26,6 +26,6 @@ public class MedidorTemperatura {
         // Exibição da média das temperaturas
         System.out.println("A média de hoje das temperaturas é: " + mediaTemperaturas + "°C");
 
-        scanner.close(); // Fechar o scanner para evitar vazamento de recursos
+        scanner.close();
     }
 }
